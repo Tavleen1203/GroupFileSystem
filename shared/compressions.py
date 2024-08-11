@@ -1,3 +1,4 @@
+#COMPRESS DECOMPRESS
 
 import zlib
 
