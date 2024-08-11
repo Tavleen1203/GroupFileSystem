@@ -52,6 +52,11 @@ Server Side Shell:
 Client Side:
 ![image](https://github.com/user-attachments/assets/4e3233c5-68b2-4cab-a9c2-ac5d51cfc693)
 
+File Transfered:
+![image](https://github.com/user-attachments/assets/22d2c8aa-711c-420a-8d2c-140a32843434)
+
+File Recieved:
+![image](https://github.com/user-attachments/assets/dcc8f761-0db9-4361-a1e9-0900885c76f0)
 
 ## **Installation and Setup**
 
