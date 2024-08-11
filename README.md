@@ -1,4 +1,4 @@
-# ** Group File Sharing Tool** 📂
+# Group File Sharing Tool 📂
 
 This repository contains a Python-based file distribution tool designed for managing groups and distributing files within an organization. The system includes both server and client components, allowing for the efficient management of user groups and secure file transfers.
 
@@ -80,14 +80,3 @@ Client Side:
 - **Group Management:** The client will automatically request a list of groups and join a specified group. The server handles these requests and updates group membership accordingly.
 - **File Transfer:** Once the client joins a group, the server can be configured to send files to the client.
 
-## **Contributing**
-
-Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
-
-## **License**
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-You can copy this description directly into the `README.md` file in your GitHub repository. Adjust any placeholders like the GitHub URL to match your repository specifics.
