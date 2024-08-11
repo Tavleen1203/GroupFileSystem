@@ -57,6 +57,8 @@ File Transfered:
 
 File Recieved:
 ![image](https://github.com/user-attachments/assets/dcc8f761-0db9-4361-a1e9-0900885c76f0)
+![image](https://github.com/user-attachments/assets/95644beb-8a98-45e6-b4fd-0634ccf1b5e7)
+
 
 ## **Installation and Setup**
 
